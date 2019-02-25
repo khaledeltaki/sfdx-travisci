@@ -7,7 +7,5 @@ public with sharing class myclass {
 	public String getAppVersion() {
 		return '1.0.0';
 	}
-	//Some changes again number
-	//another change
-	//Sample change in class
+	//This is change
 }
